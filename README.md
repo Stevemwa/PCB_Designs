@@ -1,6 +1,8 @@
-"I2C MOTOR DRIVER"
+# I2C MOTOR DRIVER
 ![real](https://github.com/Stevemwa/PCB_Designs/assets/62056954/5479b225-c138-4109-a267-5bb61bb433db)
+# ATTINY85 ALARM
 ![Screenshot 2024-05-19 120635](https://github.com/Stevemwa/PCB_Designs/assets/62056954/1653ff65-5a5b-4c4a-ad57-b78a9c0fac4f)
+# AMPLIFIER WITH TUNNING
 ![Screenshot 2024-05-09 125123](https://github.com/Stevemwa/PCB_Designs/assets/62056954/7cd23f30-2455-49f2-910a-16fbd11a1ec1)
 ![Screenshot 2024-04-19 163009](https://github.com/Stevemwa/PCB_Designs/assets/62056954/8b389254-a54d-4795-b198-25e79c0ac31f)
 ![Screenshot 2024-04-19 162344](https://github.com/Stevemwa/PCB_Designs/assets/62056954/d3303682-4b48-4ab0-a42f-dc509bc9d18d)
