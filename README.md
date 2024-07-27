@@ -1,8 +1,16 @@
 # IP-SNIFFER
 ![Screenshot 2024-06-23 222100](https://github.com/Stevemwa/PCB_Designs/assets/62056954/9c3183d6-3f2d-4856-8666-7251295d0043)
 
+# LCD BEEPER
+![Screenshot 2024-07-21 214643](https://github.com/user-attachments/assets/78fff379-2c97-49cf-bbcd-601e983b0ce5)
+
+# PI ZERO SENSOR SHIELD
+![Screenshot 2024-07-03 152010](https://github.com/user-attachments/assets/613145c5-8169-49bb-8d4c-19e8fe356ca2)
+
 # I2C MOTOR DRIVER
-![real](https://github.com/Stevemwa/PCB_Designs/assets/62056954/5479b225-c138-4109-a267-5bb61bb433db)
+![Screenshot_2024-05-29_154837-removebg-preview](https://github.com/user-attachments/assets/dd3a0cb4-c8c4-46ca-92ca-49c52f20e413)
+
+
 # ESP32 DEV BOARD
 ![ESP_marauder](https://github.com/Stevemwa/PCB_Designs/assets/62056954/b62f8dca-59a4-45e6-8f2d-a4802f9d9712)
 # ATTINY85 ALARM
